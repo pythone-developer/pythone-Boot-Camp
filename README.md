@@ -6,7 +6,7 @@ Basic Data Types
 
 1.Lists
 </br>
-1.Tuples
+2.Tuples
 
 
 # Prerequisites
