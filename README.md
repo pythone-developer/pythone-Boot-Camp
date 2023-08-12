@@ -1,10 +1,10 @@
 # pythone Boot Camp
 Welcome to the Python Boot Camp! I created this camp for myself to improve my level in Python and improve my problem-solving skill. This repository contains materials and resources to improve my level in Python language. If you are a beginner looking to improve your Python skills, this bootcamp will help you learn and master the language.
 
-# Day 1 (Basic Data Types)
+# Day 1 
+##Basic Data Types
 1.Lists
-</br>
-2.Tuples
+1.Tuples
 
 
 # Prerequisites
