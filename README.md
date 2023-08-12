@@ -3,6 +3,7 @@ Welcome to the Python Boot Camp! I created this camp for myself to improve my le
 
 # Day 1 (Basic Data Types)
 1.Lists
+</br>
 2.Tuples
 
 
