@@ -34,6 +34,7 @@ Python Functionals
 Regex and Parsing
 
 XML
+
 Closures and Decorators
 
 Numpy
@@ -56,6 +57,12 @@ Debugging
 1.Lists
 </br>
 2.Tuples
+
+# Day 2
+## String
+
+# Day 3
+## String
 
 # Contributing
 We welcome contributions to the Python Boot Camp! If you find any issues, have suggestions for improvement, or want to add new features, please feel free to submit a pull request. We appreciate your support in making this boot camp better for everyone.
