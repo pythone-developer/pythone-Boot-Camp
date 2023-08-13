@@ -13,7 +13,7 @@ if __name__ == '__main__':
 """
 Step 1: First, n had taken integer type input.
 
-Step 2: then, we created a list containing n numbers of integers.
+Step 2: thenn, we created a list containing n numbers of integers.
 
 Step 3: After this, we changed our list into a tuple.
 
