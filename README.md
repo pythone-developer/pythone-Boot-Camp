@@ -2,7 +2,7 @@
 Welcome to the Python Boot Camp! I created this camp for myself to improve my level in Python and improve my problem-solving skill. This repository contains materials and resources to improve my level in Python language. If you are a beginner looking to improve your Python skills, this bootcamp will help you learn and master the language.
 
 
-
+(https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 # Prerequisites
 To make the most of this boot camp, you should have a basic understanding of programming concepts. Prior experience with any programming language will be helpful but not required. 
