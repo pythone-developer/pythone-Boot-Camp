@@ -34,7 +34,6 @@ Python Functionals
 Regex and Parsing
 
 XML
-
 Closures and Decorators
 
 Numpy
