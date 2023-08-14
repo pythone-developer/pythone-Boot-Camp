@@ -59,10 +59,22 @@ Debugging
 
 # Day 2
 ## String
-
+1. sWAP cASE
+2. String Split and Join
+3. What's Your Name?
+4. Mutations
+5. Find a string
+6. String Validators
+7. Text Alignment
 # Day 3
 ## String
-
+1. Text Wrap
+2. Designer Door Mat
+3. String Formatting
+4. Alphabet Rangoli
+5. Capitalize!
+6. The Minion Game
+7. Merge the Tools!
 # Contributing
 We welcome contributions to the Python Boot Camp! If you find any issues, have suggestions for improvement, or want to add new features, please feel free to submit a pull request. We appreciate your support in making this boot camp better for everyone.
 
