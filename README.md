@@ -6,38 +6,22 @@ Welcome to the Python Boot Camp! I created this camp for myself to improve my le
 # Prerequisites
 To make the most of this boot camp, you should have a basic understanding of programming concepts. Prior experience with any programming language will be helpful but not required. 
 # Content
-Introduction
-
-Basic Data Types
-
-Strings
-
-Sets
-
-Math
-
-Itertools
-
-Collections
-
-Date and Time
-
+- Introduction
+- Basic Data Types
+- Strings
+- Sets
+- Math
+- Itertools
+- Collections
+- Date and Time
 Errors and Exceptions
-
 Classes
-
 Built-Ins
-
 Python Functionals
-
 Regex and Parsing
-
 XML
-
 Closures and Decorators
-
 Numpy
-
 Debugging
 
 </br>
@@ -53,9 +37,8 @@ Debugging
 # Day 1 
 ## Basic Data Types
 
-1.Lists
-</br>
-2.Tuples
+1. Lists
+2. Tuples
 
 # Day 2
 ## String
