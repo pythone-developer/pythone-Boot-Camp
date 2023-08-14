@@ -14,18 +14,15 @@ To make the most of this boot camp, you should have a basic understanding of pro
 - Itertools
 - Collections
 - Date and Time
-Errors and Exceptions
-Classes
-Built-Ins
-Python Functionals
-Regex and Parsing
-XML
-Closures and Decorators
-Numpy
-Debugging
-
-</br>
-
+- Errors and Exceptions
+- Classes
+- Built-Ins
+- Python Functionals
+- Regex and Parsing
+- XML
+- Closures and Decorators
+- Numpy
+- Debugging
 # Introduction
 1. Say "Hello, World!" With Python
 2. Python If-Else
