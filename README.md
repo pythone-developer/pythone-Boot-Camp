@@ -59,7 +59,8 @@ Debugging
 
 # Day 2
 ## String
-
+1. sWAP cASE
+2. String Split and Join
 # Day 3
 ## String
 
